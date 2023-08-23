@@ -1,0 +1,18 @@
+Doğal Dil İşleme (NLP) alanında, "shot" terimi, bir modele ne kadar az veya ne kadar fazla veri sağlandığını ifade eder. Bu kavram, genellikle modele eğitim verilerinin miktarını belirlemek ve modelin ne kadar veriyle iyi çalışabileceğini anlamak için kullanılır. İşte "shot" terimi ile ilişkilendirilen bazı terimler ve farkları:
+
+Zero Shot Learning:
+
+Anlam: Zero shot learning, modelin eğitim verisi içermeyen yeni sınıfları tanıma yeteneğini ifade eder. Model, daha önce hiç görmediği sınıfları anlamak veya tahmin etmek için öğrenilmiş kalıpları kullanır.
+Örnek: Bir NLP modeli, eğitim verileri içermeyen bir dildeki kelime veya kavramları anlayabilir veya doğru tahminlerde bulunabilir.
+Few Shot Learning:
+
+Anlam: Few shot learning, sınırlı sayıda örnek veriyle çalışarak yeni görevleri veya sınıfları öğrenme yeteneğini ifade eder. Model, sınırlı sayıda veri ile daha önce görmediği sınıfları veya görevleri anlayabilir.
+Örnek: Bir NLP modeli, sadece birkaç örnek metinle yeni bir dilde metin sınıflandırması görevini öğrenebilir.
+One Shot Learning:
+
+Anlam: One shot learning, yalnızca tek bir örnek veri ile yeni bir görevi veya sınıfı öğrenme yeteneğini ifade eder. Model, sınırlı sayıda veya hatta sadece bir örnekle öğrenme yapabilir.
+Örnek: Bir NLP modeli, yalnızca bir örnek cümle ile bir kelimenin anlamını veya kullanımını anlayabilir.
+Generalization:
+
+Anlam: Generalization, modelin eğitim verilerinden öğrendiği bilgiyi görmediği verilere genişletebilme yeteneğini ifade eder. Model, öğrendiği kalıpları benzer ancak daha önce görmediği örnekler üzerinde de kullanabilir.
+Bu terimler, NLP modellerinin ne kadar veri ile ne kadar iyi performans gösterebileceğini anlamak ve yeni görevleri veya sınıfları nasıl öğrenebileceğini anlamak için önemlidir. Zero shot learning, few shot learning ve one shot learning gibi yaklaşımlar, sınırlı veri koşullarında dahi NLP modellerinin etkili bir şekilde çalışabilmesini sağlamak için geliştirilen stratejilerdir.
